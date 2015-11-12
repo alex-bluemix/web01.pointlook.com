@@ -7,7 +7,7 @@ npm run dev
 ```
 
 - to use in prod
-``
+```
 npm i
 npm run build
 npm run start
